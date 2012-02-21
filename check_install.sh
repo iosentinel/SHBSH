@@ -1,5 +1,4 @@
 #!/bin/sh
-# tcsh, bash, sh, csh
 # Central script that helps facilitate installing various packages ontop of the debian's APT-GET try to abstract to all linux distros
 # Read in from the command line, creates an array and stores it into $packages
 is_installed() {
